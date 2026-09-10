@@ -49,8 +49,6 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-> Replace this placeholder with your screenshot after uploading it to the `images` folder.
-
 ![Sales Dashboard](images/dashboard.png)
 
 ---
