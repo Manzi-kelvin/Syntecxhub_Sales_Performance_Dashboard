@@ -49,7 +49,7 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](./images/Dashboard.png)
 
 ---
 
